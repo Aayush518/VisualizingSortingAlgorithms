@@ -3,10 +3,7 @@
 Author: Aayush Adhikari
 
 ## Preview 
-![Screen Recording 2023-11-20 at 20 11 08](https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/aa4c3c99-05ad-439b-a329-cbadaadbc9b6)
-
-
-
+![Screen Recording 2023-11-20 at 20 11 08](https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/ce5ae61d-c089-44ac-af07-32354b8dc95f)
 
 
 
