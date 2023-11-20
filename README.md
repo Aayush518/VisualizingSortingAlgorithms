@@ -2,6 +2,14 @@
 
 Author: Aayush Adhikari
 
+##Preview 
+
+
+https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/6a360da9-3cf7-4a67-9955-5b5f5698485d
+
+
+
+
 ## Overview
 
 This Python script uses the Tkinter library to visualize three popular sorting algorithms: Insertion Sort, Selection Sort, and Bubble Sort. The graphical representation helps users understand the sorting process by animating the movement of bars.
