@@ -2,7 +2,7 @@
 
 Author: Aayush Adhikari
 
-##Preview 
+## Preview 
 
 
 https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/6a360da9-3cf7-4a67-9955-5b5f5698485d
