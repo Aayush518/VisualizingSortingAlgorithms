@@ -3,9 +3,9 @@
 Author: Aayush Adhikari
 
 ## Preview 
+![Screen Recording 2023-11-20 at 20 11 08](https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/aa4c3c99-05ad-439b-a329-cbadaadbc9b6)
 
 
-https://github.com/Aayush518/VisualizingSortingAlgorithms/assets/77236863/6a360da9-3cf7-4a67-9955-5b5f5698485d
 
 
 
